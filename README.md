@@ -22,8 +22,7 @@ https://docs.google.com/spreadsheets/d/1aalgCf8iyEB6yalIQHK8djRP29QsJxZjDRiMJGzs
 
 
 # データベース設計
-[![Image from Gyazo](https://i.gyazo.com/8fc2394417dc1e8db8de043d8b6f37e4.jpg)](https://gyazo.com/8fc2394417dc1e8db8de043d8b6f37e4)
-
+[![Image from Gyazo](https://i.gyazo.com/d187127cbf7710f178863de9559c660d.jpg)](https://gyazo.com/d187127cbf7710f178863de9559c660d)
 
 # 画面遷移図
 [![Image from Gyazo](https://i.gyazo.com/6a49d6b2ab99520d472d7c0793fcf2bc.png)](https://gyazo.com/6a49d6b2ab99520d472d7c0793fcf2bc)
